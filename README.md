@@ -1,4 +1,4 @@
-<h1 align="center"> ### Hello there !!! My name is Amit Kurud 👋 </h1>
+<h1 align="center"> Hello there !!! My name is Amit Kurud 👋 </h1>
 
 I am full stack developer who works with mostly in Java , But I also work with Kotlin , Typescript, Python.
 If I see a interesting Language then I would prolly try it. I also work with Spring Boot, ReactJS , Android, Kafka etc.
